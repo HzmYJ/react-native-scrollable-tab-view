@@ -92,7 +92,7 @@ const styles = StyleSheet.create({
     flex: 1,
   },
   tabs: {
-    height: 50,
+    height: 40,
     flexDirection: 'row',
     justifyContent: 'space-around',
     borderWidth: 1,
